@@ -22,8 +22,7 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 
 14:00 - 18:00: "How to repeat yourselt with purr"
 
-[Slides](rstd.io/purrr-latinr)
-[Live coding](https://github.com/rivaquiroga/presentaciones-LatinR2018/blob/master/tutoriales/jenny-live-code.R)
+[Slides](rstd.io/purrr-latinr) / [Live coding](https://github.com/rivaquiroga/presentaciones-LatinR2018/blob/master/tutoriales/jenny-live-code.R)
 
 
 ## Presentaciones orales
