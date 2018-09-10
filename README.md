@@ -34,7 +34,7 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 
 __R-Ladies__ (Bea Hernández, Yanina Bellini, Daniela Vázquez & Laura Ación)
 
-__Desarrollo de recursoss: The Carpentries__ ([Rayna Harris]((https://twitter.com/raynamharris)) & [Florencia D'Andrea](https://twitter.com/cantoflor_87)) 
+__Desarrollo de recursos: The Carpentries__ ([Rayna Harris]((https://twitter.com/raynamharris)) & [Florencia D'Andrea](https://twitter.com/cantoflor_87)) 
 > [Slides](https://speakerdeck.com/raynamharris/latinr-thecarpentriesinstructortraining)
 
 __¡MejoR ciencia con rOpenSci!__ (Maëlle Salmon + Jenny Bryan, Laura Ación & Mauro Lepore) 
