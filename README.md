@@ -22,7 +22,7 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 
 
 10:00 - 13:00: Andrés Farall: "Inteligencia Artificial con R: Introducción al _Deep Learning_"
-> [Slides](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/LatinR2018_Farall.pdf)
+> [Slides](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/tutoriales/LatinR2018_Farall.pdf)
 
 14:00 - 18:00: Jenny Bryan: "How to repeat yourselt with purr" 
 > [Slides](https://github.com/jennybc/2018-09_purrr-latinr/blob/master/2018-09_purrr-latinr.pdf) / [Live code](https://github.com/jennybc/2018-09_purrr-latinr/blob/master/2018-09_purrr-latinr-live-code.R)
