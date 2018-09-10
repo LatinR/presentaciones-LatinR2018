@@ -30,11 +30,23 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 
 ## Paneles de comunidades
 
-Rayna Harris & Florencia D'Andrea: The Carpentries / [Slides](https://speakerdeck.com/raynamharris/latinr-thecarpentriesinstructortraining)
+__R-Ladies__ (Bea Hernández, Yanina Bellini, Daniela Vázquez & Laura Ación)
+
+__The Carpentries__ (Rayna Harris & Florencia D'Andrea) 
+> [Slides](https://speakerdeck.com/raynamharris/latinr-thecarpentriesinstructortraining)
+
+__¡MejoR ciencia con rOpenSci!__ (Maëlle Salmon + Jenny Bryan, Laura Ación & Mauro Lepore) 
+
+__Grupos de Usuarios de R (Chile)__ (Joshua Kunst) 
+
+__R Spacial en español__ (Priscilla Minotti)
+
+__Traducción colaborativa al español de "R for Data Science"__ ([Riva Quiroga](https://twitter.com/rivaquiroga))
+
 
 ## Presentaciones sponsors
 
-_Pŕoximamente_
+EANT - Impresión 3D por medio de R
 
 ## Presentaciones orales
 
@@ -42,4 +54,87 @@ _Próximamente_
 
 ## Pósters
 
-_Próximamente_
+#### Modelos gráficos para la visualización del comportamiento de votación de legisladores
+Violeta Roizman, Clara Roizman, Florencia Leonardi, Mariela Sued
+
+#### Diseño e Implementación de una herramienta para análisis de redes de coautoría 
+Julio Augusto Spairani, María Gabriela Russo, Francisco Di Fabio Rocca
+
+#### News, macroeconomic expectations and disagreement
+Philipp Adämmer, Joscha Beckmann, Rainer Schüssler
+
+#### Visualizando narrativas en economía
+Federico Ignacio Scenna
+
+#### Topic modeling en datos de Twitter: Una aplicación en el contexto político peruano
+Jesús Eduardo Gamboa Unsihuay
+
+#### Medición de la reputación corporativa en los medios de comunicación. Un caso de migración de RapidMiner a R
+Rocío Soledad Curti Frau, Juan Pablo Sokil
+
+#### Análisis de datos del Sistema de Integración Comunal (SINCO) venezolano con R 
+Cesar Carrero
+
+#### Estimación paralela de parámetros texturales
+Jorge Martinez, Silvina Pistonesi, Ana Georgina Flesia
+
+#### Comparación de propuestas para el análisis de componentes principales en matrices con datos faltantes
+Nicolás Murrone
+
+#### Uso de gmnl para la estimación de la DAP por atributos de carnicerías en contextos de información diferentes
+[Gonzalo Martin Urquiza Jozami](https://www.linkedin.com/in/gonzalo-urquiza-jozami-190686131), Natacha Liseras
+> [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Urquiza-Liseras.pdf)
+
+
+#### Paquete ZOIP de R para modelo de regresión mixto con datos proporcionales inflados con ceros y/o unos
+Juan Camilo Diaz Zapata, Freddy Hernández Barajas
+
+#### Detección de rachas de frío a través de modelos DLM y su implementación en R
+Manuel Hernández Banadik, Ignacio Álvarez-Castro
+
+#### Visualización de modelos lineales con el paquete sjPlot
+Jesica Formoso, Irene Injoque-Ricle, Juan Pablo Barreyro, Débora Burin
+
+#### Estudio por simulación del desempeño de distintos métodos para el análisis de diseños experimentales bifactoriales con tamaños muestrales pequeños
+Marcos Miguel Prunello, María Belén Allasia, Laura Piskulic, Juan José Ivancovich, Hebe Bottai, Liliana Racca, Sabrina Silva Quintana
+
+#### Longitudinal Multidimensional Item Response Modelling in Preschool Children's Mental State Understanding 
+Vilma Susana Romero Romero
+
+#### R-Medic: Un programa de análisis estadísticos, sencillo e intuitivo
+Arnaldo Mangeaud, David Elías Panigo
+
+#### Análisis gráfico de metanálisis en red usando “netmeta"
+Cristina Beatriz Cuesta, Guillermina Isern
+
+#### Grafos en R: Un Análisis de redes en Salud
+Patricia Janet Caro
+
+#### Análisis de datos de expresión con R como herramienta para el estudio de familias génicas
+Tai Sabrina Chiriotto, Maite Saura-Sánchez
+
+#### Desarrollo de una función en R para agilizar y automatizar la limpieza de secuencias obtenidas por la técnica de cDNA-AFLP
+Florencia Ileana Pozzi, Gisela Yael Green, Gustavo Rubén Rodríguez, Silvina Andrea Felitti
+
+#### Species Sensitivity Distributions for Ecotoxicological Risk Assessment: elaboration of a shiny app to facilitate data analysis
+María Florencia D'Andrea, Julie Celine Brodeur
+
+#### Clasificación de sistemas ganaderos para estimación de gases de efecto invernadero 
+Anabella Lozza, Yanina Bellini Saibene
+
+#### Análisis del recurso eólico usando R en zonas no interconectadas (ZNI) del departamento de Nariño (Colombia)
+Omar Ernesto Cabrera Rosero, Andrés Darío Pantoja Bucheli
+
+#### Métodos de clasificación supervisada en series temporales
+[Sofia Ruiz Suarez](https://twitter.com/sofiruizsuarez), Vianey Leos Barajas, Juan Manuel Morales
+> [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Ruiz-Leos-Morales.pdf)
+
+
+#### Creación de un plug-in de Rcmdr para el análisis de experimentos con diferentes arreglos de dos factores
+María Anabella Dinon, Silvina San Martino, María Gloria Monterubbianesi
+
+#### Using SQL for data consolidation in R
+Jennifer Vinas-Forcade, Julien Nacci, Cindy Mels, Martin Valcke, Ilse Derluyn
+
+#### De Excel a R: ¿cambio de una herramienta o apertura a nuevas posibilidades?
+Carolina Soledad Fracchia, Matías Lopez Rosenfeld
