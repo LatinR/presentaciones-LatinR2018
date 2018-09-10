@@ -30,17 +30,18 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 
 ## Paneles de comunidades
 
-Bea Hernández, Yanina Bellini, Daniela Vázquez & Laura Ación: __R-Ladies__
+__R-Ladies__ (Bea Hernández, Yanina Bellini, Daniela Vázquez & Laura Ación)
 
-Rayna Harris & Florencia D'Andrea: __The Carpentries__ / [Slides](https://speakerdeck.com/raynamharris/latinr-thecarpentriesinstructortraining)
+__The Carpentries__ (Rayna Harris & Florencia D'Andrea) 
+> [Slides](https://speakerdeck.com/raynamharris/latinr-thecarpentriesinstructortraining)
 
-Maëlle Salmon + Jenny Bryan, Laura Ación & Mauro Lepore: __¡MejoR ciencia con rOpenSci!__
+__¡MejoR ciencia con rOpenSci!__ (Maëlle Salmon + Jenny Bryan, Laura Ación & Mauro Lepore) 
 
-Joshua Kunst: __Grupos de Usuarios de R (Chile)__
+__Grupos de Usuarios de R (Chile)__ (Joshua Kunst) 
 
-Priscilla Minotti: __R Spacial en español__
+__R Spacial en español__ (Priscilla Minotti)
 
-Riva Quiroga: __Traducción colaborativa al español de "R for Data Science"__
+__Traducción colaborativa al español de "R for Data Science"__ ([Riva Quiroga](https://twitter.com/rivaquiroga))
 
 
 ## Presentaciones sponsors
@@ -82,7 +83,8 @@ Nicolás Murrone
 
 #### Uso de gmnl para la estimación de la DAP por atributos de carnicerías en contextos de información diferentes
 [Gonzalo Martin Urquiza Jozami](https://www.linkedin.com/in/gonzalo-urquiza-jozami-190686131), Natacha Liseras
-> [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Uruiza-Liseras.pdf)
+> [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Urquiza-Liseras.pdf)
+
 
 #### Paquete ZOIP de R para modelo de regresión mixto con datos proporcionales inflados con ceros y/o unos
 Juan Camilo Diaz Zapata, Freddy Hernández Barajas
@@ -125,7 +127,7 @@ Omar Ernesto Cabrera Rosero, Andrés Darío Pantoja Bucheli
 
 #### Métodos de clasificación supervisada en series temporales
 [Sofia Ruiz Suarez](https://twitter.com/sofiruizsuarez), Vianey Leos Barajas, Juan Manuel Morales
-> [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Suarez-Leos-Morales.pdf)
+> [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Ruiz-Leos-Morales.pdf)
 
 
 #### Creación de un plug-in de Rcmdr para el análisis de experimentos con diferentes arreglos de dos factores
