@@ -18,15 +18,22 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 
 ## Tutoriales 
 
-10:00 - 13:00: Natalia da Silva: "Visualización estática e interactiva de datos usando ggplot2 y plotly"
+__Martes 3 de septiembre__
 
-10:00 - 13:00: Andrés Farall: "Inteligencia Artificial con R: Introducción al _Deep Learning_"
+Natalia da Silva: "Visualización estática e interactiva de datos usando ggplot2 y plotly"
+
+Andrés Farall: "Inteligencia Artificial con R: Introducción al _Deep Learning_"
 > [Slides](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/tutoriales/LatinR2018_Farall.pdf)
+> [Script Modelo Simple con KERAS](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/tutoriales/farall_script-simple-model-keras.R)
+> [Script Clasificación de Imágenes](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/tutoriales/farall_script-image-classification.R)
+> [Script Clasificación Series Temporales con KERAS](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/tutoriales/farall_script-time-series-classification-kerasR)
 
-14:00 - 18:00: Jenny Bryan: "How to repeat yourselt with purr" 
+Jenny Bryan: "How to repeat yourselt with purr" 
 > [Slides](https://github.com/jennybc/2018-09_purrr-latinr/blob/master/2018-09_purrr-latinr.pdf) / [Live code](https://github.com/jennybc/2018-09_purrr-latinr/blob/master/2018-09_purrr-latinr-live-code.R)
 
-09:00 - 13:00: Rayna Harris & Florencia D'Andrea: "Carpentries teaching practices for R users"
+__Miércoles 5 de septiembre__
+
+Rayna Harris & Florencia D'Andrea: "Carpentries teaching practices for R users"
 > [Website](https://raynamharris.github.io/2018-09-05-LatinR/)
 
 
@@ -34,7 +41,7 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 
 __R-Ladies__ (Bea Hernández, Yanina Bellini, Daniela Vázquez & Laura Ación)
 
-__Desarrollo de recursos: The Carpentries__ ([Rayna Harris]((https://twitter.com/raynamharris)) & [Florencia D'Andrea](https://twitter.com/cantoflor_87)) 
+__Desarrollo de recursos: The Carpentries__ ([Rayna Harris](https://twitter.com/raynamharris) & [Florencia D'Andrea](https://twitter.com/cantoflor_87)) 
 > [Slides](https://speakerdeck.com/raynamharris/latinr-thecarpentriesinstructortraining)
 
 __¡MejoR ciencia con rOpenSci!__ (Maëlle Salmon + Jenny Bryan, Laura Ación & Mauro Lepore) 
