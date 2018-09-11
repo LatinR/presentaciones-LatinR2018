@@ -24,7 +24,7 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 > [Live code](https://github.com/jennybc/2018-09_purrr-latinr/blob/master/2018-09_purrr-latinr-live-code.R)
 
 #### Natalia da Silva: "Visualización estática e interactiva de datos usando ggplot2 y plotly"
-
+> [Slides](https://natydasilva.github.io/taller_LatinR)
 
 #### Andrés Farall: "Inteligencia Artificial con R: Introducción al _Deep Learning_"
 > [Slides](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/tutoriales/LatinR2018_Farall.pdf)
@@ -48,8 +48,8 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 
 * __¡MejoR ciencia con rOpenSci!__ (Maëlle Salmon + Jenny Bryan, Laura Ación & Mauro Lepore) 
 
-* __Grupos de Usuarios de R (Chile)__ (Joshua Kunst) 
-
+* __Grupos de Usuarios de R (Chile)__ ([Joshua Kunst](https://twitter.com/jbkunst)) 
+  > [Slides](http://jkunst.com/latin-r-meetup-history)
 * __R Spacial en español__ (Priscilla Minotti)
 
 * __Traducción colaborativa al español de "R for Data Science"__ ([Riva Quiroga](https://twitter.com/rivaquiroga))
@@ -58,10 +58,46 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 ## Presentaciones sponsors
 
 EANT - Impresión 3D por medio de R
+IBM
+RStudio
 
 ## Presentaciones orales
 
-_Próximamente_
+#### Visualización y análisis del Tráfico Marítimo a partir de millones de datos del Sistema de Identificación Automática de barcos mediante una aplicación web de R con Shiny 
+Guzmán López Orrego
+
+#### Incorporación de Información Satelital Grillada para la Producción de una Base de Datos de Temperaturas Mínimas de Alta Resolución
+
+Pablo Nicolás Alfaro Piñeyro, Leonardo Moreno, Marco Scavino
+
+#### EPP v.0.2: Evaluation of Proximity Programs with OSRM routing 
+Richard Detomasi Araujo, Gabriela Mathieu, Germán Botto Núñez
+
+#### Análisis de imágenes satelitales con R: Patrones espaciales de la correlación cruzada de series temporales de imágenes Modis de temperatura y productividad vegetal
+Matias Alejandro Catillo Moine, Priscilla Gail Minotti
+
+#### Visualización y análisis mediante series temporales de la siniestralidad vial del Uruguay en el período 2013-2017
+Matías Muñoz Wolf, Bruno Fernando Bellagamba De Leon, Claudia Lorena Vila Bordoli
+
+#### shinyWYSIWYG: a shiny What You See Is What You Get editor
+Juan Cruz Rodriguez, Jorge Claudio Vargas Rojas, Elmer Andrés Fernández
+
+#### Indicadores Economicos basados en la Evolución Sectorial y Provincial del Empleo Formal
+Ignacio Martin Sarmiento-Barbieri, Pedro Elosegui
+
+#### Aplicación Shiny: Mujeres en política en el mundo 2000-2018
+Gabriela Mathieu
+
+#### LibreSense: Software para análisis sensorial de alimentos
+Aníbal Catania, Carlos Catania, Martín Fanzone, Santiago Sari
+
+#### DATAUNIRIO Transparência: Uso do Shiny para aumentar a transparência orçamentária
+Steven Dutt Ross, Alexandre Sousa da Silva, Maria Tereza Serrano Barbosa, Luciane de Souza Velasque, Luciane Ferreira Alcoforado, Orlando Celso Longo
+
+#### Ressignificando o Resultado do Tesouro Nacional: uma aplicação em transparência fiscal e dados abertos 
+Fernando Almeida Barbalho
+
+
 
 ## Pósters
 
