@@ -63,11 +63,12 @@ RStudio
 
 ## Presentaciones orales
 
+### Martes 4 de septiembre
+
 #### Visualización y análisis del Tráfico Marítimo a partir de millones de datos del Sistema de Identificación Automática de barcos mediante una aplicación web de R con Shiny 
 Guzmán López Orrego
 
 #### Incorporación de Información Satelital Grillada para la Producción de una Base de Datos de Temperaturas Mínimas de Alta Resolución
-
 Pablo Nicolás Alfaro Piñeyro, Leonardo Moreno, Marco Scavino
 
 #### EPP v.0.2: Evaluation of Proximity Programs with OSRM routing 
@@ -97,6 +98,75 @@ Steven Dutt Ross, Alexandre Sousa da Silva, Maria Tereza Serrano Barbosa, Lucian
 #### Ressignificando o Resultado do Tesouro Nacional: uma aplicação em transparência fiscal e dados abertos 
 Fernando Almeida Barbalho
 
+#### Demostración de creative coding con R para LatinR 2018 
+Bea Hernández
+
+#### Geofaceting Argentina
+Juan Pablo Ruiz Nicolini
+
+### Miércoles 5 de septiembre
+
+#### Newspaper Analysis
+Aleksander Dietrichson, Pablo Daniel Pagnone
+
+#### Informe interactivo mediante el uso de Bookdown y plotly para el reporte de la evolución de la mortalidad por enfermedades cardiovasculares entre los años 2005 y 2015 en el Uruguay
+Matías Muñoz Wolf
+
+#### Sentiments and Opinions From Twitter About Peruvian Touristic Places Using Correspondence Analysis
+Luis Angel Cajachahua Espinoza, Luz Burga Menacho 
+
+#### Utilización de R para análisis bibliométrico
+Natalia Daniela Rapesta, Lautaro Martin Miguel Ramos, Anabella Cecilia De Battista, Leandro Lepratte
+
+#### Uso de R en bibliometría. Exploración de técnicas para la detección de temas locales de investigación
+Sebastian Varela
+
+#### Descripción del comercio internacional utilizando un modelo de redes complejas 
+Diego Kozlowski
+
+#### Red de paquetes de R: CRAN, estructura y evolución temporal 
+Ariel Olaf Salgado Corrado e Inés Caridi
+
+#### Asistiendo al usuario de R en la recomendación de nuevos paquetes Ariel Salgado, Ines Caridi, Andrés Farrall
+
+#### Modelo DINA aplicado a la evaluación de Matemática en estudiantes de segundo grado de secundaria 
+Yuriko Sosa Paredes
+
+#### Ordenando, “tidy”, la información sobre educación: una aplicación al Plan Ceibal en Uruguay 
+Juan José Goyeneche Capeluto, Cecilia Marconi Ferrari, Ana Coimbra Marfetán, Guillermina Costabel Artus
+
+#### A Utilização do R nas Aulas de Matemática no Ensino Médio
+Luiz Paulo Santos
+
+#### priorcovmatrix: Explorar, visualizar y estimar matrices de covarianzas
+Ignacio Alvarez-Castro
+
+#### Towards an R Package for the Shortest Path Problem with Forbidden Paths 
+[PDF presentación](https://github.com/rivaquiroga/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR_Vidoni-Vecchietti.pdf) / [Repositorio](https://melvidoni.github.io/rsppfp)
+
+Melina Vidoni [[Twitter](https://twitter.com/melvidoni)][[Github](https://github.com/melvidoni)][[ResearchGate](https://www.researchgate.net/profile/Melina_Vidoni)]
+Aldo Vecchietti
+
+#### Paquetes con procedimientos robustos para la estimación de las componentes de un modelo aditivo
+Alejandra Mercedes Martínez
+
+#### Uso de R y minería de datos para la predicción del estado de cultivos cítricos
+Martin Ehman, Gabriel Surraco, Karina Eckert, Sergio Garrán, Vanesa Hochmaier, Armando Taie
+
+#### metR - Visualización y manejo de datos meteorológicos
+Elio Campitelli
+
+#### frost: prediction of minimum temperature for frost forecasting in agriculture
+Ana Laura Diedrichs, Facundo Bromberg, Diego Dujovne
+
+#### Cálculo Numérico de la Solución del Problema de Poisson Mediante la Simulación del Proceso de Wiener
+Cecilia Paciel López, Gonzalo Federico Hornos Pascale, Fernando Rafael Binaghi Fernández, Agustín Ignacio Estramil Dinello
+
+#### Topological Sensitivity Analysis Using R
+Maikol Solís, Alberto Hernández, Ronal Zúñiga
+
+#### Indicators of Electoral Systems and Party Systems: R-package:esaps 
+Nicolás Schmidt
 
 
 ## Pósters
@@ -182,6 +252,7 @@ María Anabella Dinon, Silvina San Martino, María Gloria Monterubbianesi
 
 #### Using SQL for data consolidation in R
 Jennifer Vinas-Forcade, Julien Nacci, Cindy Mels, Martin Valcke, Ilse Derluyn
+> [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Vinas-Nacci-Mels-Valcke-Derluyn.pdf)
 
 #### De Excel a R: ¿cambio de una herramienta o apertura a nuevas posibilidades?
 Carolina Soledad Fracchia, Matías Lopez Rosenfeld
