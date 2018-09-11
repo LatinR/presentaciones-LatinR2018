@@ -58,201 +58,274 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 ## Presentaciones sponsors
 
 EANT - Impresión 3D por medio de R
+
 IBM
+
 RStudio
 
 ## Presentaciones orales
 
 ### Martes 4 de septiembre
 
-#### Visualización y análisis del Tráfico Marítimo a partir de millones de datos del Sistema de Identificación Automática de barcos mediante una aplicación web de R con Shiny 
-Guzmán López Orrego
+* #### Visualización y análisis del Tráfico Marítimo a partir de millones de datos del Sistema de Identificación Automática de barcos mediante una aplicación web de R con Shiny 
+  Guzmán López Orrego
 
-#### Incorporación de Información Satelital Grillada para la Producción de una Base de Datos de Temperaturas Mínimas de Alta Resolución
-Pablo Nicolás Alfaro Piñeyro, Leonardo Moreno, Marco Scavino
+* #### Incorporación de Información Satelital Grillada para la Producción de una Base de Datos de Temperaturas Mínimas de Alta Resolución
+  Pablo Nicolás Alfaro Piñeyro, Leonardo Moreno, Marco Scavino
 
-#### EPP v.0.2: Evaluation of Proximity Programs with OSRM routing 
-Richard Detomasi Araujo, Gabriela Mathieu, Germán Botto Núñez
+* #### EPP v.0.2: Evaluation of Proximity Programs with OSRM routing 
+  Richard Detomasi Araujo, Gabriela Mathieu, Germán Botto Núñez
 
-#### Análisis de imágenes satelitales con R: Patrones espaciales de la correlación cruzada de series temporales de imágenes Modis de temperatura y productividad vegetal
-Matias Alejandro Catillo Moine, Priscilla Gail Minotti
+* #### Análisis de imágenes satelitales con R: Patrones espaciales de la correlación cruzada de series temporales de imágenes Modis de temperatura y productividad vegetal
+  Matias Alejandro Catillo Moine
+  
+  Priscilla Gail Minotti
 
-#### Visualización y análisis mediante series temporales de la siniestralidad vial del Uruguay en el período 2013-2017
-Matías Muñoz Wolf, Bruno Fernando Bellagamba De Leon, Claudia Lorena Vila Bordoli
+* #### Visualización y análisis mediante series temporales de la siniestralidad vial del Uruguay en el período 2013-2017
+  Matías Muñoz Wolf
 
-#### shinyWYSIWYG: a shiny What You See Is What You Get editor
-Juan Cruz Rodriguez, Jorge Claudio Vargas Rojas, Elmer Andrés Fernández
+  Bruno Fernando Bellagamba De Leon
 
-#### Indicadores Economicos basados en la Evolución Sectorial y Provincial del Empleo Formal
-Ignacio Martin Sarmiento-Barbieri, Pedro Elosegui
+  Claudia Lorena Vila Bordoli
 
-#### Aplicación Shiny: Mujeres en política en el mundo 2000-2018
-Gabriela Mathieu
+* #### shinyWYSIWYG: a shiny What You See Is What You Get editor
+  Juan Cruz Rodriguez
 
-#### LibreSense: Software para análisis sensorial de alimentos
-Aníbal Catania, Carlos Catania, Martín Fanzone, Santiago Sari
+  Jorge Claudio Vargas Rojas
 
-#### DATAUNIRIO Transparência: Uso do Shiny para aumentar a transparência orçamentária
-Steven Dutt Ross, Alexandre Sousa da Silva, Maria Tereza Serrano Barbosa, Luciane de Souza Velasque, Luciane Ferreira Alcoforado, Orlando Celso Longo
+  Elmer Andrés Fernández
 
-#### Ressignificando o Resultado do Tesouro Nacional: uma aplicação em transparência fiscal e dados abertos 
-Fernando Almeida Barbalho
+* #### Indicadores Economicos basados en la Evolución Sectorial y Provincial del Empleo Formal
+  Ignacio Martin Sarmiento-Barbieri
 
-#### Demostración de creative coding con R para LatinR 2018 
-Bea Hernández
+  Pedro Elosegui
 
-#### Geofaceting Argentina
-Juan Pablo Ruiz Nicolini
+* #### Aplicación Shiny: Mujeres en política en el mundo 2000-2018
+  Gabriela Mathieu
+
+* #### LibreSense: Software para análisis sensorial de alimentos
+  Aníbal Catania
+
+  Carlos Catania
+
+  Martín Fanzone
+
+  Santiago Sari
+
+* #### DATAUNIRIO Transparência: Uso do Shiny para aumentar a transparência orçamentária
+  Steven Dutt Ross
+
+  Alexandre Sousa da Silva
+
+  Maria Tereza Serrano Barbosa
+
+  Luciane de Souza Velasque
+
+  Luciane Ferreira Alcoforado
+
+  Orlando Celso Longo
+
+* #### Ressignificando o Resultado do Tesouro Nacional: uma aplicação em transparência fiscal e dados abertos [[Shiny App](https://fabdev.shinyapps.io/Ressignifica_RTN/)]
+  [Fernando Almeida Barbalho](linkedin.com/in/fernando-almeida-barbalho-00623640)
+
+* #### Demostración de creative coding con R para LatinR 2018 
+  Bea Hernández
+
+* #### Geofaceting Argentina / [[Slides](https://www.researchgate.net/publication/327382101_Geofaceting_Argentina_LatinR-47JAIIO)/ [Repositorio](https://github.com/TuQmano/geofacet_ARG)]
+  [Juan Pablo Ruiz Nicolini](https://twitter.com/TuQmano)
+
 
 ### Miércoles 5 de septiembre
 
-#### Newspaper Analysis
-Aleksander Dietrichson, Pablo Daniel Pagnone
+* #### Newspaper Analysis
+  Aleksander Dietrichson
 
-#### Informe interactivo mediante el uso de Bookdown y plotly para el reporte de la evolución de la mortalidad por enfermedades cardiovasculares entre los años 2005 y 2015 en el Uruguay
-Matías Muñoz Wolf
+Pablo Daniel Pagnone
 
-#### Sentiments and Opinions From Twitter About Peruvian Touristic Places Using Correspondence Analysis
-Luis Angel Cajachahua Espinoza, Luz Burga Menacho 
+* #### Informe interactivo mediante el uso de Bookdown y plotly para el reporte de la evolución de la mortalidad por enfermedades cardiovasculares entre los años 2005 y 2015 en el Uruguay
+  Matías Muñoz Wolf
 
-#### Utilización de R para análisis bibliométrico
-Natalia Daniela Rapesta, Lautaro Martin Miguel Ramos, Anabella Cecilia De Battista, Leandro Lepratte
+* #### Sentiments and Opinions From Twitter About Peruvian Touristic Places Using Correspondence Analysis
+  Luis Angel Cajachahua Espinoza
 
-#### Uso de R en bibliometría. Exploración de técnicas para la detección de temas locales de investigación
-Sebastian Varela
+  Luz Burga Menacho 
 
-#### Descripción del comercio internacional utilizando un modelo de redes complejas 
-Diego Kozlowski
+* #### Utilización de R para análisis bibliométrico
+  Natalia Daniela Rapesta
 
-#### Red de paquetes de R: CRAN, estructura y evolución temporal 
-Ariel Olaf Salgado Corrado e Inés Caridi
+  Lautaro Martin Miguel Ramos
 
-#### Asistiendo al usuario de R en la recomendación de nuevos paquetes Ariel Salgado, Ines Caridi, Andrés Farrall
+  Anabella Cecilia De Battista
 
-#### Modelo DINA aplicado a la evaluación de Matemática en estudiantes de segundo grado de secundaria 
-Yuriko Sosa Paredes
+  Leandro Lepratte
 
-#### Ordenando, “tidy”, la información sobre educación: una aplicación al Plan Ceibal en Uruguay 
-Juan José Goyeneche Capeluto, Cecilia Marconi Ferrari, Ana Coimbra Marfetán, Guillermina Costabel Artus
+* #### Uso de R en bibliometría. Exploración de técnicas para la detección de temas locales de investigación
+  Sebastian Varela
 
-#### A Utilização do R nas Aulas de Matemática no Ensino Médio
-Luiz Paulo Santos
+* #### Descripción del comercio internacional utilizando un modelo de redes complejas / [[Slides](https://github.com/DiegoKoz/grafo_comercio_agregado/blob/master/Presentacion/DiegoKozlowski.pdf)/[Shiny App](https://diegokoz.shinyapps.io/Distribucion_nodos_wrdtrade/)/[Full paper](https://github.com/DiegoKoz/grafo_comercio_agregado/blob/master/informe/full_paper.pdf)/[Repositorio](https://github.com/DiegoKoz/grafo_comercio_agregado)]
+  Diego Kozlowski / [[Twitter](https://twitter.com/Diego_Koz)/[Academia](https://uba.academia.edu/DiegoKozlowski)/[LinkedIn](https://www.linkedin.com/in/diego-kozlowski/)]
 
-#### priorcovmatrix: Explorar, visualizar y estimar matrices de covarianzas
-Ignacio Alvarez-Castro
+* #### Red de paquetes de R: CRAN, estructura y evolución temporal 
+  Ariel Olaf Salgado Corrado
 
-#### Towards an R Package for the Shortest Path Problem with Forbidden Paths 
-[PDF presentación](https://github.com/rivaquiroga/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR_Vidoni-Vecchietti.pdf) / [Repositorio](https://melvidoni.github.io/rsppfp)
+  Inés Caridi
 
-Melina Vidoni [[Twitter](https://twitter.com/melvidoni)][[Github](https://github.com/melvidoni)][[ResearchGate](https://www.researchgate.net/profile/Melina_Vidoni)]
-Aldo Vecchietti
+* #### Asistiendo al usuario de R en la recomendación de nuevos paquetes 
+  Ariel Salgado
 
-#### Paquetes con procedimientos robustos para la estimación de las componentes de un modelo aditivo
-Alejandra Mercedes Martínez
+  Ines Caridi
 
-#### Uso de R y minería de datos para la predicción del estado de cultivos cítricos
-Martin Ehman, Gabriel Surraco, Karina Eckert, Sergio Garrán, Vanesa Hochmaier, Armando Taie
+  Andrés Farall
 
-#### metR - Visualización y manejo de datos meteorológicos
-Elio Campitelli
+* #### Modelo DINA aplicado a la evaluación de Matemática en estudiantes de segundo grado de secundaria 
+  Yuriko Sosa Paredes
 
-#### frost: prediction of minimum temperature for frost forecasting in agriculture
-Ana Laura Diedrichs, Facundo Bromberg, Diego Dujovne
+* #### Ordenando, “tidy”, la información sobre educación: una aplicación al Plan Ceibal en Uruguay 
+  Juan José Goyeneche Capeluto
 
-#### Cálculo Numérico de la Solución del Problema de Poisson Mediante la Simulación del Proceso de Wiener
-Cecilia Paciel López, Gonzalo Federico Hornos Pascale, Fernando Rafael Binaghi Fernández, Agustín Ignacio Estramil Dinello
+  Cecilia Marconi Ferrari
 
-#### Topological Sensitivity Analysis Using R
-Maikol Solís, Alberto Hernández, Ronal Zúñiga
+  Ana Coimbra Marfetán
 
-#### Indicators of Electoral Systems and Party Systems: R-package:esaps 
-Nicolás Schmidt
+  Guillermina Costabel Artus
+
+* #### A Utilização do R nas Aulas de Matemática no Ensino Médio
+  Luiz Paulo Santos
+
+* #### priorcovmatrix: Explorar, visualizar y estimar matrices de covarianzas
+  Ignacio Alvarez-Castro
+
+* #### Towards an R Package for the Shortest Path Problem with Forbidden Paths / [[PDF presentación](https://github.com/rivaquiroga/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR_Vidoni-Vecchietti.pdf) / [Repositorio](https://melvidoni.github.io/rsppfp)]
+
+  Melina Vidoni [[Twitter](https://twitter.com/melvidoni)]/[[Github](https://github.com/melvidoni)]/[[ResearchGate](https://www.researchgate.net/profile/Melina_Vidoni)]
+
+  Aldo Vecchietti
+
+* #### Paquetes con procedimientos robustos para la estimación de las componentes de un modelo aditivo
+  Alejandra Mercedes Martínez
+
+* #### Uso de R y minería de datos para la predicción del estado de cultivos cítricos
+  Martin Ehman
+
+  Gabriel Surraco
+
+  Karina Eckert
+
+  Sergio Garrán
+
+  Vanesa Hochmaier
+
+  Armando Taie
+
+* #### metR - Visualización y manejo de datos meteorológicos [[PDF Presentación](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR2018_Campitelli.pdf)]
+  Elio Campitelli [[Twitter](https://twitter.com/d_olivaw)]/[Github](https://github.com/eliocamp)]
+
+* #### frost: prediction of minimum temperature for frost forecasting in agriculture
+  Ana Laura Diedrichs
+
+  Facundo Bromberg
+
+  Diego Dujovne
+
+* #### Cálculo Numérico de la Solución del Problema de Poisson Mediante la Simulación del Proceso de Wiener
+  Cecilia Paciel López
+
+  Gonzalo Federico Hornos Pascale
+
+  Fernando Rafael Binaghi Fernández
+
+  Agustín Ignacio Estramil Dinello
+
+* #### Topological Sensitivity Analysis Using R
+  Maikol Solís
+
+  Alberto Hernández
+
+  Ronal Zúñiga
+
+* #### Indicators of Electoral Systems and Party Systems: R-package:esaps 
+  Nicolás Schmidt
 
 
 ## Pósters
 
-#### Modelos gráficos para la visualización del comportamiento de votación de legisladores
-Violeta Roizman, Clara Roizman, Florencia Leonardi, Mariela Sued
+* #### Modelos gráficos para la visualización del comportamiento de votación de legisladores
+  Violeta Roizman, Clara Roizman, Florencia Leonardi, Mariela Sued
 
-#### Diseño e Implementación de una herramienta para análisis de redes de coautoría 
-Julio Augusto Spairani, María Gabriela Russo, Francisco Di Fabio Rocca
+* #### Diseño e Implementación de una herramienta para análisis de redes de coautoría 
+  Julio Augusto Spairani, María Gabriela Russo, Francisco Di Fabio Rocca
 
-#### News, macroeconomic expectations and disagreement
-Philipp Adämmer, Joscha Beckmann, Rainer Schüssler
+* #### News, macroeconomic expectations and disagreement
+  Philipp Adämmer, Joscha Beckmann, Rainer Schüssler
 
-#### Visualizando narrativas en economía
-Federico Ignacio Scenna
+* #### Visualizando narrativas en economía
+  Federico Ignacio Scenna
 
-#### Topic modeling en datos de Twitter: Una aplicación en el contexto político peruano
-Jesús Eduardo Gamboa Unsihuay
+* #### Topic modeling en datos de Twitter: Una aplicación en el contexto político peruano
+  Jesús Eduardo Gamboa Unsihuay
 
-#### Medición de la reputación corporativa en los medios de comunicación. Un caso de migración de RapidMiner a R
-Rocío Soledad Curti Frau, Juan Pablo Sokil
+* #### Medición de la reputación corporativa en los medios de comunicación. Un caso de migración de RapidMiner a R
+  Rocío Soledad Curti Frau, Juan Pablo Sokil
 
-#### Análisis de datos del Sistema de Integración Comunal (SINCO) venezolano con R 
-Cesar Carrero
+* #### Análisis de datos del Sistema de Integración Comunal (SINCO) venezolano con R [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Carrero.pdf)
+  [Cesar Carrero](https://twitter.com/carreroce)
 
-#### Estimación paralela de parámetros texturales
-Jorge Martinez, Silvina Pistonesi, Ana Georgina Flesia
+* #### Estimación paralela de parámetros texturales
+  Jorge Martinez, Silvina Pistonesi, Ana Georgina Flesia
 
-#### Comparación de propuestas para el análisis de componentes principales en matrices con datos faltantes
-Nicolás Murrone
+* #### Comparación de propuestas para el análisis de componentes principales en matrices con datos faltantes
+  Nicolás Murrone
 
-#### Uso de gmnl para la estimación de la DAP por atributos de carnicerías en contextos de información diferentes
-[Gonzalo Martin Urquiza Jozami](https://www.linkedin.com/in/gonzalo-urquiza-jozami-190686131), Natacha Liseras
-> [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Urquiza-Liseras.pdf)
+* #### Uso de gmnl para la estimación de la DAP por atributos de carnicerías en contextos de información diferentes [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Urquiza-Liseras.pdf)
+  [Gonzalo Martin Urquiza Jozami](https://www.linkedin.com/in/gonzalo-urquiza-jozami-190686131), Natacha Liseras
 
+* #### Paquete ZOIP de R para modelo de regresión mixto con datos proporcionales inflados con ceros y/o unos
+  Juan Camilo Diaz Zapata, Freddy Hernández Barajas
 
-#### Paquete ZOIP de R para modelo de regresión mixto con datos proporcionales inflados con ceros y/o unos
-Juan Camilo Diaz Zapata, Freddy Hernández Barajas
+* #### Detección de rachas de frío a través de modelos DLM y su implementación en R
+  Manuel Hernández Banadik, Ignacio Álvarez-Castro
 
-#### Detección de rachas de frío a través de modelos DLM y su implementación en R
-Manuel Hernández Banadik, Ignacio Álvarez-Castro
+* #### Visualización de modelos lineales con el paquete sjPlot
+  Jesica Formoso, Irene Injoque-Ricle, Juan Pablo Barreyro, Débora Burin
 
-#### Visualización de modelos lineales con el paquete sjPlot
-Jesica Formoso, Irene Injoque-Ricle, Juan Pablo Barreyro, Débora Burin
+* #### Estudio por simulación del desempeño de distintos métodos para el análisis de diseños experimentales bifactoriales con tamaños muestrales pequeños
+  Marcos Miguel Prunello, María Belén Allasia, Laura Piskulic, Juan José Ivancovich, Hebe Bottai, Liliana Racca, Sabrina Silva Quintana
 
-#### Estudio por simulación del desempeño de distintos métodos para el análisis de diseños experimentales bifactoriales con tamaños muestrales pequeños
-Marcos Miguel Prunello, María Belén Allasia, Laura Piskulic, Juan José Ivancovich, Hebe Bottai, Liliana Racca, Sabrina Silva Quintana
+* #### Longitudinal Multidimensional Item Response Modelling in Preschool Children's Mental State Understanding 
+  Vilma Susana Romero Romero
 
-#### Longitudinal Multidimensional Item Response Modelling in Preschool Children's Mental State Understanding 
-Vilma Susana Romero Romero
+* #### R-Medic: Un programa de análisis estadísticos, sencillo e intuitivo
+  Arnaldo Mangeaud, David Elías Panigo
 
-#### R-Medic: Un programa de análisis estadísticos, sencillo e intuitivo
-Arnaldo Mangeaud, David Elías Panigo
+* #### Análisis gráfico de metanálisis en red usando “netmeta"
+  Cristina Beatriz Cuesta, Guillermina Isern
 
-#### Análisis gráfico de metanálisis en red usando “netmeta"
-Cristina Beatriz Cuesta, Guillermina Isern
+* #### Grafos en R: Un Análisis de redes en Salud
+  Patricia Janet Caro
 
-#### Grafos en R: Un Análisis de redes en Salud
-Patricia Janet Caro
+* #### Análisis de datos de expresión con R como herramienta para el estudio de familias génicas
+  Tai Sabrina Chiriotto, Maite Saura-Sánchez
 
-#### Análisis de datos de expresión con R como herramienta para el estudio de familias génicas
-Tai Sabrina Chiriotto, Maite Saura-Sánchez
+* #### Desarrollo de una función en R para agilizar y automatizar la limpieza de secuencias obtenidas por la técnica de cDNA-AFLP
+  Florencia Ileana Pozzi, Gisela Yael Green, Gustavo Rubén Rodríguez, Silvina Andrea Felitti
 
-#### Desarrollo de una función en R para agilizar y automatizar la limpieza de secuencias obtenidas por la técnica de cDNA-AFLP
-Florencia Ileana Pozzi, Gisela Yael Green, Gustavo Rubén Rodríguez, Silvina Andrea Felitti
+* #### Species Sensitivity Distributions for Ecotoxicological Risk Assessment: elaboration of a shiny app to facilitate data analysis
+  María Florencia D'Andrea, Julie Celine Brodeur
 
-#### Species Sensitivity Distributions for Ecotoxicological Risk Assessment: elaboration of a shiny app to facilitate data analysis
-María Florencia D'Andrea, Julie Celine Brodeur
+* #### Clasificación de sistemas ganaderos para estimación de gases de efecto invernadero 
+  Anabella Lozza, Yanina Bellini Saibene
 
-#### Clasificación de sistemas ganaderos para estimación de gases de efecto invernadero 
-Anabella Lozza, Yanina Bellini Saibene
+* #### Análisis del recurso eólico usando R en zonas no interconectadas (ZNI) del departamento de Nariño (Colombia)
+  Omar Ernesto Cabrera Rosero, Andrés Darío Pantoja Bucheli
 
-#### Análisis del recurso eólico usando R en zonas no interconectadas (ZNI) del departamento de Nariño (Colombia)
-Omar Ernesto Cabrera Rosero, Andrés Darío Pantoja Bucheli
+* #### Métodos de clasificación supervisada en series temporales [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Ruiz-Leos-Morales.pdf)
+  [Sofia Ruiz Suarez](https://twitter.com/sofiruizsuarez), Vianey Leos Barajas, Juan Manuel Morales
 
-#### Métodos de clasificación supervisada en series temporales
-[Sofia Ruiz Suarez](https://twitter.com/sofiruizsuarez), Vianey Leos Barajas, Juan Manuel Morales
-> [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Ruiz-Leos-Morales.pdf)
+* #### Creación de un plug-in de Rcmdr para el análisis de experimentos con diferentes arreglos de dos factores
+  María Anabella Dinon, Silvina San Martino, María Gloria Monterubbianesi
 
+* #### Using SQL for data consolidation in R [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Vinas-Nacci-Mels-Valcke-Derluyn.pdf)
+  Jennifer Vinas-Forcade, Julien Nacci, Cindy Mels, Martin Valcke, Ilse Derluyn
 
-#### Creación de un plug-in de Rcmdr para el análisis de experimentos con diferentes arreglos de dos factores
-María Anabella Dinon, Silvina San Martino, María Gloria Monterubbianesi
-
-#### Using SQL for data consolidation in R
-Jennifer Vinas-Forcade, Julien Nacci, Cindy Mels, Martin Valcke, Ilse Derluyn
-> [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Vinas-Nacci-Mels-Valcke-Derluyn.pdf)
-
-#### De Excel a R: ¿cambio de una herramienta o apertura a nuevas posibilidades?
-Carolina Soledad Fracchia, Matías Lopez Rosenfeld
+* #### De Excel a R: ¿cambio de una herramienta o apertura a nuevas posibilidades?
+  Carolina Soledad Fracchia, Matías Lopez Rosenfeld
