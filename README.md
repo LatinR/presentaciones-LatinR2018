@@ -89,7 +89,7 @@ RStudio
   Claudia Lorena Vila Bordoli
 
 * #### shinyWYSIWYG: a shiny What You See Is What You Get editor [[PDF Presentación](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR2018_Rodriguez-et-al.pdf) / [Shiny App](https://jcrodriguez.shinyapps.io/shinyWYSIWYG/) / [Repositorio](https://github.com/jcrodriguez1989/shinyWYSIWYG)]
-  Juan Cruz Rodriguez [[Twitter](https://twitter.com/IACCancu)] 
+  Juan Cruz Rodriguez [[Twitter](https://twitter.com/IACCancu) 
  / [ResearchGate(https://www.researchgate.net/profile/Juan_Rodriguez92)]
 
   Jorge Claudio Vargas Rojas
