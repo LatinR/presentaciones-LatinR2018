@@ -88,8 +88,9 @@ RStudio
 
   Claudia Lorena Vila Bordoli
 
-* #### shinyWYSIWYG: a shiny What You See Is What You Get editor
-  Juan Cruz Rodriguez
+* #### shinyWYSIWYG: a shiny What You See Is What You Get editor [[PDF Presentación](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR2018_Rodriguez-et-al.pdf) / [Shiny App](https://jcrodriguez.shinyapps.io/shinyWYSIWYG/) / [Repositorio](https://github.com/jcrodriguez1989/shinyWYSIWYG)]
+  Juan Cruz Rodriguez [[Twitter](https://twitter.com/IACCancu)] 
+ / [ResearchGate(https://www.researchgate.net/profile/Juan_Rodriguez92)]
 
   Jorge Claudio Vargas Rojas
 
@@ -126,12 +127,12 @@ RStudio
   Orlando Celso Longo
 
 * #### Ressignificando o Resultado do Tesouro Nacional: uma aplicação em transparência fiscal e dados abertos [[Shiny App](https://fabdev.shinyapps.io/Ressignifica_RTN/)]
-  [Fernando Almeida Barbalho](linkedin.com/in/fernando-almeida-barbalho-00623640)
+  [Fernando Almeida Barbalho](https://linkedin.com/in/fernando-almeida-barbalho-00623640)
 
 * #### Demostración de creative coding con R para LatinR 2018 
   Bea Hernández
 
-* #### Geofaceting Argentina / [[Slides](https://www.researchgate.net/publication/327382101_Geofaceting_Argentina_LatinR-47JAIIO)/ [Repositorio](https://github.com/TuQmano/geofacet_ARG)]
+* #### Geofaceting Argentina [[Slides](https://www.researchgate.net/publication/327382101_Geofaceting_Argentina_LatinR-47JAIIO) / [Repositorio](https://github.com/TuQmano/geofacet_ARG)]
   [Juan Pablo Ruiz Nicolini](https://twitter.com/TuQmano)
 
 
@@ -162,8 +163,8 @@ Pablo Daniel Pagnone
 * #### Uso de R en bibliometría. Exploración de técnicas para la detección de temas locales de investigación
   Sebastian Varela
 
-* #### Descripción del comercio internacional utilizando un modelo de redes complejas / [[Slides](https://github.com/DiegoKoz/grafo_comercio_agregado/blob/master/Presentacion/DiegoKozlowski.pdf)/[Shiny App](https://diegokoz.shinyapps.io/Distribucion_nodos_wrdtrade/)/[Full paper](https://github.com/DiegoKoz/grafo_comercio_agregado/blob/master/informe/full_paper.pdf)/[Repositorio](https://github.com/DiegoKoz/grafo_comercio_agregado)]
-  Diego Kozlowski / [[Twitter](https://twitter.com/Diego_Koz)/[Academia](https://uba.academia.edu/DiegoKozlowski)/[LinkedIn](https://www.linkedin.com/in/diego-kozlowski/)]
+* #### Descripción del comercio internacional utilizando un modelo de redes complejas [[Slides](https://github.com/DiegoKoz/grafo_comercio_agregado/blob/master/Presentacion/DiegoKozlowski.pdf) / [Shiny App](https://diegokoz.shinyapps.io/Distribucion_nodos_wrdtrade/) / [Full paper](https://github.com/DiegoKoz/grafo_comercio_agregado/blob/master/informe/full_paper.pdf) / [Repositorio](https://github.com/DiegoKoz/grafo_comercio_agregado)]
+  Diego Kozlowski [[Twitter](https://twitter.com/Diego_Koz) / [Academia](https://uba.academia.edu/DiegoKozlowski) / [LinkedIn](https://www.linkedin.com/in/diego-kozlowski/)]
 
 * #### Red de paquetes de R: CRAN, estructura y evolución temporal 
   Ariel Olaf Salgado Corrado
@@ -180,7 +181,7 @@ Pablo Daniel Pagnone
 * #### Modelo DINA aplicado a la evaluación de Matemática en estudiantes de segundo grado de secundaria 
   Yuriko Sosa Paredes
 
-* #### Ordenando, “tidy”, la información sobre educación: una aplicación al Plan Ceibal en Uruguay 
+* #### Ordenando, “tidy”, la información sobre educación: una aplicación al Plan Ceibal en Uruguay [[Presentación](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR2018_goyeneche-et-al.html)]
   Juan José Goyeneche Capeluto
 
   Cecilia Marconi Ferrari
@@ -192,12 +193,12 @@ Pablo Daniel Pagnone
 * #### A Utilização do R nas Aulas de Matemática no Ensino Médio
   Luiz Paulo Santos
 
-* #### priorcovmatrix: Explorar, visualizar y estimar matrices de covarianzas
-  Ignacio Alvarez-Castro
+* #### priorcovmatrix: Explorar, visualizar y estimar matrices de covarianzas [[PDF Presentación](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR2018_Alvarez-Castro.pdf)] / [Paquete](https://github.com/nachalca/PriorCovmatrix)]
+  [Ignacio Alvarez-Castro](https://twitter.com/nachalca)
 
-* #### Towards an R Package for the Shortest Path Problem with Forbidden Paths / [[PDF presentación](https://github.com/rivaquiroga/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR_Vidoni-Vecchietti.pdf) / [Repositorio](https://melvidoni.github.io/rsppfp)]
+* #### Towards an R Package for the Shortest Path Problem with Forbidden Paths [[PDF presentación](https://github.com/rivaquiroga/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR_Vidoni-Vecchietti.pdf) / [Repositorio](https://melvidoni.github.io/rsppfp)]
 
-  Melina Vidoni [[Twitter](https://twitter.com/melvidoni)]/[[Github](https://github.com/melvidoni)]/[[ResearchGate](https://www.researchgate.net/profile/Melina_Vidoni)]
+  Melina Vidoni [[Twitter](https://twitter.com/melvidoni) / [Github](https://github.com/melvidoni) / [ResearchGate](https://www.researchgate.net/profile/Melina_Vidoni)]
 
   Aldo Vecchietti
 
@@ -218,10 +219,10 @@ Pablo Daniel Pagnone
   Armando Taie
 
 * #### metR - Visualización y manejo de datos meteorológicos [[PDF Presentación](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR2018_Campitelli.pdf)]
-  Elio Campitelli [[Twitter](https://twitter.com/d_olivaw)]/[Github](https://github.com/eliocamp)]
+  Elio Campitelli [[Twitter](https://twitter.com/d_olivaw) / [Github](https://github.com/eliocamp)]
 
-* #### frost: prediction of minimum temperature for frost forecasting in agriculture
-  Ana Laura Diedrichs
+* #### frost: prediction of minimum temperature for frost forecasting in agriculture [[Slides, paper y proyecto]( https://anadiedrichs.github.io/talk/2018-latinr/)]
+  Ana Laura Diedrichs [[Twitter](https://twitter.com/) / [Sitio web](https://anadiedrichs.github.io)]
 
   Facundo Bromberg
 
@@ -236,8 +237,8 @@ Pablo Daniel Pagnone
 
   Agustín Ignacio Estramil Dinello
 
-* #### Topological Sensitivity Analysis Using R
-  Maikol Solís
+* #### Topological Sensitivity Analysis Using R [[PDF Presentación](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR2018_Solis.pdf)]
+  Maikol Solís [[Twitter](https://twitter.com/maikol_solis)] / [Github](https://github.com/maikol-solis)]
 
   Alberto Hernández
 
