@@ -141,7 +141,7 @@ RStudio
 * #### Newspaper Analysis
   Aleksander Dietrichson
 
-Pablo Daniel Pagnone
+  Pablo Daniel Pagnone
 
 * #### Informe interactivo mediante el uso de Bookdown y plotly para el reporte de la evolución de la mortalidad por enfermedades cardiovasculares entre los años 2005 y 2015 en el Uruguay
   Matías Muñoz Wolf
