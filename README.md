@@ -20,19 +20,21 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 
 10:00 - 13:00: Natalia da Silva: "Visualización estática e interactiva de datos usando ggplot2 y plotly"
 
-
 10:00 - 13:00: Andrés Farall: "Inteligencia Artificial con R: Introducción al _Deep Learning_"
 > [Slides](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/tutoriales/LatinR2018_Farall.pdf)
 
 14:00 - 18:00: Jenny Bryan: "How to repeat yourselt with purr" 
 > [Slides](https://github.com/jennybc/2018-09_purrr-latinr/blob/master/2018-09_purrr-latinr.pdf) / [Live code](https://github.com/jennybc/2018-09_purrr-latinr/blob/master/2018-09_purrr-latinr-live-code.R)
 
+09:00 - 13:00: Rayna Harris & Florencia D'Andrea: "Carpentries teaching practices for R users"
+> [Website](https://raynamharris.github.io/2018-09-05-LatinR/)
+
 
 ## Paneles de comunidades
 
 __R-Ladies__ (Bea Hernández, Yanina Bellini, Daniela Vázquez & Laura Ación)
 
-__The Carpentries__ (Rayna Harris & Florencia D'Andrea) 
+__Desarrollo de recursos: The Carpentries__ ([Rayna Harris]((https://twitter.com/raynamharris)) & [Florencia D'Andrea](https://twitter.com/cantoflor_87)) 
 > [Slides](https://speakerdeck.com/raynamharris/latinr-thecarpentriesinstructortraining)
 
 __¡MejoR ciencia con rOpenSci!__ (Maëlle Salmon + Jenny Bryan, Laura Ación & Mauro Lepore) 
