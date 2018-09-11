@@ -18,22 +18,25 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 
 ## Tutoriales 
 
-__Martes 3 de septiembre__
 
-Natalia da Silva: "Visualización estática e interactiva de datos usando ggplot2 y plotly"
+#### Jenny Bryan: "How to repeat yourselt with purr" 
+> [Slides](https://github.com/jennybc/2018-09_purrr-latinr/blob/master/2018-09_purrr-latinr.pdf)
 
-Andrés Farall: "Inteligencia Artificial con R: Introducción al _Deep Learning_"
+> [Live code](https://github.com/jennybc/2018-09_purrr-latinr/blob/master/2018-09_purrr-latinr-live-code.R)
+
+#### Natalia da Silva: "Visualización estática e interactiva de datos usando ggplot2 y plotly"
+
+
+#### Andrés Farall: "Inteligencia Artificial con R: Introducción al _Deep Learning_"
 > [Slides](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/tutoriales/LatinR2018_Farall.pdf)
+
 > [Script Modelo Simple con KERAS](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/tutoriales/farall_script-simple-model-keras.R)
+
 > [Script Clasificación de Imágenes](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/tutoriales/farall_script-image-classification.R)
+
 > [Script Clasificación Series Temporales con KERAS](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/tutoriales/farall_script-time-series-classification-kerasR)
 
-Jenny Bryan: "How to repeat yourselt with purr" 
-> [Slides](https://github.com/jennybc/2018-09_purrr-latinr/blob/master/2018-09_purrr-latinr.pdf) / [Live code](https://github.com/jennybc/2018-09_purrr-latinr/blob/master/2018-09_purrr-latinr-live-code.R)
-
-__Miércoles 5 de septiembre__
-
-Rayna Harris & Florencia D'Andrea: "Carpentries teaching practices for R users"
+#### Rayna Harris & Florencia D'Andrea: "Carpentries teaching practices for R users"
 > [Website](https://raynamharris.github.io/2018-09-05-LatinR/)
 
 
