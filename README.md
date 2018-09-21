@@ -73,7 +73,7 @@ RStudio
 * #### Incorporación de Información Satelital Grillada para la Producción de una Base de Datos de Temperaturas Mínimas de Alta Resolución
   Pablo Nicolás Alfaro Piñeyro, Leonardo Moreno, Marco Scavino
 
-* #### EPP v.0.2: Evaluation of Proximity Programs with OSRM routing [Slides](https://gitlab.com/RichDeto/jaiio47_epp_osrm)
+* #### EPP v.0.2: Evaluation of Proximity Programs with OSRM routing [[Slides](https://gitlab.com/RichDeto/jaiio47_epp_osrm)]
   Richard Detomasi Araujo [[Twitter](https://twitter.com/RichardDetomasi) / [ResearchGate](https://www.researchgate.net/profile/Richard_Detomasi)], [Gabriela Mathieu](https://twitter.com/calcita13), [Germán Botto Núñez](https://www.researchgate.net/profile/German_Botto)
 
 * #### Análisis de imágenes satelitales con R: Patrones espaciales de la correlación cruzada de series temporales de imágenes Modis de temperatura y productividad vegetal
@@ -100,7 +100,7 @@ RStudio
 
   Pedro Elosegui
 
-* #### Aplicación Shiny: Mujeres en política en el mundo 2000-2018 [Slides](https://gitlab.com/calcita/Presenta_mep)
+* #### Aplicación Shiny: Mujeres en política en el mundo 2000-2018 [[Slides](https://gitlab.com/calcita/Presenta_mep)]
   [Gabriela Mathieu](https://twitter.com/calcita13)
 
 * #### LibreSense: Software para análisis sensorial de alimentos
@@ -128,7 +128,7 @@ RStudio
 * #### Ressignificando o Resultado do Tesouro Nacional: uma aplicação em transparência fiscal e dados abertos [[Shiny App](https://fabdev.shinyapps.io/Ressignifica_RTN/)]
   [Fernando Almeida Barbalho](https://linkedin.com/in/fernando-almeida-barbalho-00623640)
 
-* #### Demostración de creative coding con R para LatinR 2018 [Slides](https://docs.google.com/presentation/d/1MalLj2YrKcFeH93QOFfQNjZI-qz1lp7Px3VNHJtO2dc/edit?usp=sharing)  
+* #### Demostración de creative coding con R para LatinR 2018 [[Slides](https://docs.google.com/presentation/d/1MalLj2YrKcFeH93QOFfQNjZI-qz1lp7Px3VNHJtO2dc/edit?usp=sharing)]  
   Bea Hernández [[Twitter](https://twitter.com/Chucheria) / [GitHub](https://github.com/chucheria ) / [Bio](https://chucheria.github.io/material/]
 
 * #### Geofaceting Argentina [[Slides](https://www.researchgate.net/publication/327382101_Geofaceting_Argentina_LatinR-47JAIIO) / [Repositorio](https://github.com/TuQmano/geofacet_ARG)]
@@ -192,7 +192,7 @@ RStudio
 * #### A Utilização do R nas Aulas de Matemática no Ensino Médio
   Luiz Paulo Santos
 
-* #### priorcovmatrix: Explorar, visualizar y estimar matrices de covarianzas [[PDF Presentación](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR2018_Alvarez-Castro.pdf)] / [Paquete](https://github.com/nachalca/PriorCovmatrix)]
+* #### priorcovmatrix: Explorar, visualizar y estimar matrices de covarianzas [[PDF Presentación](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR2018_Alvarez-Castro.pdf) / [Paquete](https://github.com/nachalca/PriorCovmatrix)]
   [Ignacio Alvarez-Castro](https://twitter.com/nachalca)
 
 * #### Towards an R Package for the Shortest Path Problem with Forbidden Paths [[PDF presentación](https://github.com/rivaquiroga/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR_Vidoni-Vecchietti.pdf) / [Repositorio](https://melvidoni.github.io/rsppfp)]
@@ -249,13 +249,13 @@ RStudio
 
 ## Pósters
 
-* #### Modelos gráficos para la visualización del comportamiento de votación de legisladores [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Roizman-et-al.pdf)
+* #### Modelos gráficos para la visualización del comportamiento de votación de legisladores [[PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Roizman-et-al.pdf)]
   Violeta Roizman, Clara Roizman, Florencia Leonardi, Mariela Sued
 
 * #### Diseño e Implementación de una herramienta para análisis de redes de coautoría 
   Julio Augusto Spairani, María Gabriela Russo, Francisco Di Fabio Rocca
 
-* #### News, macroeconomic expectations and disagreement [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Adammer-Beckmann-Schussler.pdf)
+* #### News, macroeconomic expectations and disagreement [[PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Adammer-Beckmann-Schussler.pdf)]
   [Philipp Adämmer](https://github.com/AdaemmerP), Joscha Beckmann, Rainer Schüssler
 
 * #### Visualizando narrativas en economía
@@ -267,7 +267,7 @@ RStudio
 * #### Medición de la reputación corporativa en los medios de comunicación. Un caso de migración de RapidMiner a R
   Rocío Soledad Curti Frau, Juan Pablo Sokil
 
-* #### Análisis de datos del Sistema de Integración Comunal (SINCO) venezolano con R [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Carrero.pdf)
+* #### Análisis de datos del Sistema de Integración Comunal (SINCO) venezolano con R [[PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Carrero.pdf)]
   [Cesar Carrero](https://twitter.com/carreroce)
 
 * #### Estimación paralela de parámetros texturales
@@ -276,13 +276,13 @@ RStudio
 * #### Comparación de propuestas para el análisis de componentes principales en matrices con datos faltantes
   Nicolás Murrone
 
-* #### Uso de gmnl para la estimación de la DAP por atributos de carnicerías en contextos de información diferentes [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Urquiza-Liseras.pdf)
+* #### Uso de gmnl para la estimación de la DAP por atributos de carnicerías en contextos de información diferentes [[PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Urquiza-Liseras.pdf)]
   [Gonzalo Martin Urquiza Jozami](https://www.linkedin.com/in/gonzalo-urquiza-jozami-190686131), Natacha Liseras
 
 * #### Paquete ZOIP de R para modelo de regresión mixto con datos proporcionales inflados con ceros y/o unos
   Juan Camilo Diaz Zapata, Freddy Hernández Barajas
 
-* #### Detección de rachas de frío a través de modelos DLM y su implementación en R [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_hernandez-alvarez.pdf)
+* #### Detección de rachas de frío a través de modelos DLM y su implementación en R [[PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_hernandez-alvarez.pdf)]
   [Manuel Hernández Banadik](https:/twitter.com/emehachebe), [Ignacio Álvarez-Castro](https:/twitter.com/nachalca)
 
 * #### Visualización de modelos lineales con el paquete sjPlot
@@ -312,19 +312,19 @@ RStudio
 * #### Species Sensitivity Distributions for Ecotoxicological Risk Assessment: elaboration of a shiny app to facilitate data analysis
   María Florencia D'Andrea, Julie Celine Brodeur
 
-* #### Clasificación de sistemas ganaderos para estimación de gases de efecto invernadero 
-  Anabella Lozza, Yanina Bellini Saibene
+* #### Clasificación de sistemas ganaderos para estimación de gases de efecto invernadero [[PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Bellini-Lozza.jpg)]
+  [Anabella Lozza](https://inta.gob.ar/personas/lozza.anabella), [Yanina Bellini Saibene](https://twitter.com/yabellini)
 
 * #### Análisis del recurso eólico usando R en zonas no interconectadas (ZNI) del departamento de Nariño (Colombia)
   Omar Ernesto Cabrera Rosero, Andrés Darío Pantoja Bucheli
 
-* #### Métodos de clasificación supervisada en series temporales [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Ruiz-Leos-Morales.pdf)
+* #### Métodos de clasificación supervisada en series temporales [[PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Ruiz-Leos-Morales.pdf)]
   [Sofia Ruiz Suarez](https://twitter.com/sofiruizsuarez), Vianey Leos Barajas, Juan Manuel Morales
 
 * #### Creación de un plug-in de Rcmdr para el análisis de experimentos con diferentes arreglos de dos factores
   María Anabella Dinon, Silvina San Martino, María Gloria Monterubbianesi
 
-* #### Using SQL for data consolidation in R [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Vinas-Nacci-Mels-Valcke-Derluyn.pdf)
+* #### Using SQL for data consolidation in R [[PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Vinas-Nacci-Mels-Valcke-Derluyn.pdf)]
   Jennifer Vinas-Forcade, Julien Nacci, Cindy Mels, Martin Valcke, Ilse Derluyn
 
 * #### De Excel a R: ¿cambio de una herramienta o apertura a nuevas posibilidades?
