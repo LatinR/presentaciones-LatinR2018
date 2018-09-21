@@ -67,14 +67,14 @@ RStudio
 
 ### Martes 4 de septiembre
 
-* #### Visualización y análisis del Tráfico Marítimo a partir de millones de datos del Sistema de Identificación Automática de barcos mediante una aplicación web de R con Shiny 
-  Guzmán López Orrego
+* #### Visualización y análisis del Tráfico Marítimo a partir de millones de datos del Sistema de Identificación Automática de barcos mediante una aplicación web de R con Shiny [[Slides](https://github.com/guzmanlopez/AISVMS_vis/blob/master/LatinR_presentation/Guzm%C3%A1nL%C3%B3pez.pdf) / [Repositorio](https://github.com/guzmanlopez/AISVMS_vis)]
+  Guzmán López Orrego [[Twitter](https://twitter.com/guzilop)  / [LinkedIn](https://www.linkedin.com/in/guzm%C3%A1n-l%C3%B3pez/) / Telegram: @guzman]
 
 * #### Incorporación de Información Satelital Grillada para la Producción de una Base de Datos de Temperaturas Mínimas de Alta Resolución
   Pablo Nicolás Alfaro Piñeyro, Leonardo Moreno, Marco Scavino
 
-* #### EPP v.0.2: Evaluation of Proximity Programs with OSRM routing 
-  Richard Detomasi Araujo, Gabriela Mathieu, Germán Botto Núñez
+* #### EPP v.0.2: Evaluation of Proximity Programs with OSRM routing [Slides](https://gitlab.com/RichDeto/jaiio47_epp_osrm)
+  Richard Detomasi Araujo [[Twitter](https://twitter.com/RichardDetomasi) / [ResearchGate](https://www.researchgate.net/profile/Richard_Detomasi)], [Gabriela Mathieu](https://twitter.com/calcita13), [Germán Botto Núñez](https://www.researchgate.net/profile/German_Botto)
 
 * #### Análisis de imágenes satelitales con R: Patrones espaciales de la correlación cruzada de series temporales de imágenes Modis de temperatura y productividad vegetal
   Matias Alejandro Catillo Moine
@@ -100,8 +100,8 @@ RStudio
 
   Pedro Elosegui
 
-* #### Aplicación Shiny: Mujeres en política en el mundo 2000-2018
-  Gabriela Mathieu
+* #### Aplicación Shiny: Mujeres en política en el mundo 2000-2018 [Slides](https://gitlab.com/calcita/Presenta_mep)
+  [Gabriela Mathieu](https://twitter.com/calcita13)
 
 * #### LibreSense: Software para análisis sensorial de alimentos
   Aníbal Catania
@@ -128,8 +128,8 @@ RStudio
 * #### Ressignificando o Resultado do Tesouro Nacional: uma aplicação em transparência fiscal e dados abertos [[Shiny App](https://fabdev.shinyapps.io/Ressignifica_RTN/)]
   [Fernando Almeida Barbalho](https://linkedin.com/in/fernando-almeida-barbalho-00623640)
 
-* #### Demostración de creative coding con R para LatinR 2018 
-  Bea Hernández
+* #### Demostración de creative coding con R para LatinR 2018 [Slides](https://docs.google.com/presentation/d/1MalLj2YrKcFeH93QOFfQNjZI-qz1lp7Px3VNHJtO2dc/edit?usp=sharing)  
+  Bea Hernández [[Twitter](https://twitter.com/Chucheria) / [GitHub](https://github.com/chucheria ) / [Bio](https://chucheria.github.io/material/]
 
 * #### Geofaceting Argentina [[Slides](https://www.researchgate.net/publication/327382101_Geofaceting_Argentina_LatinR-47JAIIO) / [Repositorio](https://github.com/TuQmano/geofacet_ARG)]
   [Juan Pablo Ruiz Nicolini](https://twitter.com/TuQmano)
@@ -243,20 +243,20 @@ RStudio
 
   Ronal Zúñiga
 
-* #### Indicators of Electoral Systems and Party Systems: R-package:esaps 
-  Nicolás Schmidt
+* #### Indicators of Electoral Systems and Party Systems: R-package:esaps [[Slides](https://github.com/Nicolas-Schmidt/LatinR/blob/master/esaps.pdf) / [Repositorio](https://github.com/Nicolas-Schmidt/esaps)]
+  [Nicolás Schmidt](https://twitter.com/nicosch14)
 
 
 ## Pósters
 
-* #### Modelos gráficos para la visualización del comportamiento de votación de legisladores
+* #### Modelos gráficos para la visualización del comportamiento de votación de legisladores [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Roizman-et-al.pdf)
   Violeta Roizman, Clara Roizman, Florencia Leonardi, Mariela Sued
 
 * #### Diseño e Implementación de una herramienta para análisis de redes de coautoría 
   Julio Augusto Spairani, María Gabriela Russo, Francisco Di Fabio Rocca
 
-* #### News, macroeconomic expectations and disagreement
-  Philipp Adämmer, Joscha Beckmann, Rainer Schüssler
+* #### News, macroeconomic expectations and disagreement [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Adammer-Beckmann-Schussler.pdf)
+  [Philipp Adämmer](https://github.com/AdaemmerP), Joscha Beckmann, Rainer Schüssler
 
 * #### Visualizando narrativas en economía
   Federico Ignacio Scenna
@@ -282,8 +282,8 @@ RStudio
 * #### Paquete ZOIP de R para modelo de regresión mixto con datos proporcionales inflados con ceros y/o unos
   Juan Camilo Diaz Zapata, Freddy Hernández Barajas
 
-* #### Detección de rachas de frío a través de modelos DLM y su implementación en R
-  Manuel Hernández Banadik, Ignacio Álvarez-Castro
+* #### Detección de rachas de frío a través de modelos DLM y su implementación en R [PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_hernandez-alvarez.pdf)
+  [Manuel Hernández Banadik](https:/twitter.com/emehachebe), [Ignacio Álvarez-Castro](https:/twitter.com/nachalca)
 
 * #### Visualización de modelos lineales con el paquete sjPlot
   Jesica Formoso, Irene Injoque-Ricle, Juan Pablo Barreyro, Débora Burin
