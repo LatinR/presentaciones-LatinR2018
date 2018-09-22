@@ -58,11 +58,12 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 
 ## Presentaciones sponsors
 
-EANT - Impresión 3D por medio de R
+* __EANT - Impresión 3D por medio de R__(Lucas Pogorelsky)
+  > [Repositorio](https://github.com/lucpogo/impresion3D)
 
-IBM
+* IBM
 
-RStudio
+* RStudio
 
 ## Presentaciones orales
 
