@@ -50,7 +50,8 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 
 * __Grupos de Usuarios de R (Chile)__ ([Joshua Kunst](https://twitter.com/jbkunst)) 
   > [Slides](http://jkunst.com/latin-r-meetup-history)
-* __R Spacial en español__ (Priscilla Minotti)
+* __R Spatial en español__ (Priscilla Minotti)
+  > [Telegram](https://t.me/rspatial_es)
 
 * __Traducción colaborativa al español de "R for Data Science"__ ([Riva Quiroga](https://twitter.com/rivaquiroga))
 
