@@ -42,9 +42,10 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 ## Paneles de comunidades
 
 * __R-Ladies__ (Bea Hernández, Yanina Bellini, Daniela Vázquez & Laura Ación)
+  > [Slides](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR2018_RLadies.pptx)
 
 * __Desarrollo de recursos: The Carpentries__ ([Rayna Harris](https://twitter.com/raynamharris) & [Florencia D'Andrea](https://twitter.com/cantoflor_87)) 
-  > [Slides](https://speakerdeck.com/raynamharris/latinr-thecarpentriesinstructortraining)
+  > [Slides](https://github.com/raynamharris/FMR1CA1rnaseq/blob/master/docs/2018-09-04-LatinR.pdf)
 
 * __¡MejoR ciencia con rOpenSci!__ (Maëlle Salmon + Jenny Bryan, Laura Ación & Mauro Lepore) 
 
