@@ -153,14 +153,14 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 
   Luz Burga Menacho 
 
-* #### Utilización de R para análisis bibliométrico
-  Natalia Daniela Rapesta
+* #### Utilización de R para análisis bibliométrico [[Slides](https://drive.google.com/open?id=1RROZCfsddvQpOWrHuFOfe6IipB5ufwTM)]
+  [Natalia Daniela Rapesta](https://twitter.com/frcudatalab)
 
-  Lautaro Martin Miguel Ramos
+  [Lautaro Martin Miguel Ramos](https://twitter.com/lautaro_er)
 
-  Anabella Cecilia De Battista
+  [Anabella Cecilia De Battista](https://twitter.com/anadebattista)
 
-  Leandro Lepratte
+  [Leandro Lepratte](https://twitter.com/leandrolepratte)
 
 * #### Uso de R en bibliometría. Exploración de técnicas para la detección de temas locales de investigación
   Sebastian Varela
