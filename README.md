@@ -255,8 +255,8 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 * #### Modelos gráficos para la visualización del comportamiento de votación de legisladores [[PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Roizman-et-al.pdf)]
   Violeta Roizman, Clara Roizman, Florencia Leonardi, Mariela Sued
 
-* #### Diseño e Implementación de una herramienta para análisis de redes de coautoría 
-  Julio Augusto Spairani, María Gabriela Russo, Francisco Di Fabio Rocca
+* #### Diseño e Implementación de una herramienta para análisis de redes de coautoría [[PDF Póster](https://www.researchgate.net/publication/327253580_Diseno_e_implementacion_de_una_herramienta_para_analisis_de_redes_de_coautoria) / [Shiny App](https://jaspa.shinyapps.io/raab-coaut-latinr/)]
+  [Julio Augusto Spairani](https://twitter.com/jspairani), María Gabriela Russo, Francisco Di Fabio Rocca
 
 * #### News, macroeconomic expectations and disagreement [[PDF Póster](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/posters/LatinR2018_Adammer-Beckmann-Schussler.pdf)]
   [Philipp Adämmer](https://github.com/AdaemmerP), Joscha Beckmann, Rainer Schüssler
