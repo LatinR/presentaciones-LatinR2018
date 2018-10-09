@@ -47,7 +47,8 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 * __Desarrollo de recursos: The Carpentries__ ([Rayna Harris](https://twitter.com/raynamharris) & [Florencia D'Andrea](https://twitter.com/cantoflor_87)) 
   > [Slides](https://github.com/raynamharris/FMR1CA1rnaseq/blob/master/docs/2018-09-04-LatinR.pdf)
 
-* __¡MejoR ciencia con rOpenSci!__ (Maëlle Salmon + Jenny Bryan, Laura Ación & Mauro Lepore) 
+* __¡MejoR ciencia con rOpenSci!__ ([Maëlle Salmon](https://twitter.com/ma_salmon) + Jenny Bryan, Laura Ación & Mauro Lepore)
+  > [Slides](https://maelle.github.io/latinr/slides.html#1) 
 
 * __Grupos de Usuarios de R (Chile)__ ([Joshua Kunst](https://twitter.com/jbkunst)) 
   > [Slides](http://jkunst.com/latin-r-meetup-history)
