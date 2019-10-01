@@ -74,8 +74,8 @@ La revolución de datos y algoritmos ofrece una excelente oportunidad para renov
 * #### Visualización y análisis del Tráfico Marítimo a partir de millones de datos del Sistema de Identificación Automática de barcos mediante una aplicación web de R con Shiny [[Slides](https://github.com/guzmanlopez/AISVMS_vis/blob/master/LatinR_presentation/Guzm%C3%A1nL%C3%B3pez.pdf) / [Repositorio](https://github.com/guzmanlopez/AISVMS_vis)]
   Guzmán López Orrego [[Twitter](https://twitter.com/guzilop)  / [LinkedIn](https://www.linkedin.com/in/guzm%C3%A1n-l%C3%B3pez/) / Telegram: @guzman]
 
-* #### Incorporación de Información Satelital Grillada para la Producción de una Base de Datos de Temperaturas Mínimas de Alta Resolución
-  Pablo Nicolás Alfaro Piñeyro, Leonardo Moreno, Marco Scavino
+* #### Incorporación de Información Satelital Grillada para la Producción de una Base de Datos de Temperaturas Mínimas de Alta Resolución [[PDF Presentación](https://github.com/LatinR/presentaciones-LatinR2018/blob/master/presentaciones-orales/LatinR2018_Alfaro-et-al.pdf)]
+  Pablo Nicolás Alfaro Piñeyro [[LinkedIn](https://www.linkedin.com/in/pablo-alfaro-pi%C3%B1eyro/) / [Email](mailto:pabloalfaropineyro@gmail.com)], Leonardo Moreno [[Email](mailto:mrleo@iesta.edu.uy)], Marco Scavino [[LinkedIn](https://www.linkedin.com/in/marco-scavino-9399b121/) / [Email](mailto:mscavino@iesta.edu.uy)]
 
 * #### EPP v.0.2: Evaluation of Proximity Programs with OSRM routing [[Slides](https://gitlab.com/RichDeto/jaiio47_epp_osrm)]
   Richard Detomasi Araujo [[Twitter](https://twitter.com/RichardDetomasi) / [ResearchGate](https://www.researchgate.net/profile/Richard_Detomasi)], [Gabriela Mathieu](https://twitter.com/calcita13), [Germán Botto Núñez](https://www.researchgate.net/profile/German_Botto)
